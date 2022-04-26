@@ -1,7 +1,3 @@
-# EmployeeApp
-<img src="screen1.png" width="300" height="600"><img src="screen2.png" width="300" height="600">
-
-
 ## Development Tools and Dependency
 
 1. Android Studio bumblebee 2021.1.1
@@ -15,3 +11,6 @@
 9. MVVM archi
 10. Glide for image loading for list screen and detail screen
 11. LiveData with ViewModel LifeCycle
+
+# EmployeeApp
+<img src="screen1.png" width="300" height="600"><img src="screen2.png" width="300" height="600">
