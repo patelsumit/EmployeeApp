@@ -10,7 +10,8 @@
 8. JetPack Navigation component for fragments
 9. MVVM archi
 10. Glide for image loading for list screen and detail screen
-11. LiveData with ViewModel LifeCycle
+12. LiveData with ViewModel LifeCycle
+13. Recyclerview 
 
 # EmployeeApp
 <img src="screen1.png" width="300" height="600"><img src="screen2.png" width="300" height="600">
